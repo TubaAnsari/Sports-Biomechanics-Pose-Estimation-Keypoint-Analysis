@@ -1,3 +1,4 @@
+# Sports-Biomechanics-Pose-Estimation-Keypoint-Analysis 
 # Cricket Batting Biomechanics Analysis using Computer Vision
 
 ## Project Overview
@@ -12,18 +13,14 @@ This project was developed as part of an AI/ML Computer Vision (Sports Analytics
 ## Project Structure
 ```bash
 cricket-pose-analysis/
-├── cricket_pose_analysis.ipynb # Main Colab notebook
+├── Biomechanis_analysis.ipynb # Main Colab notebook
 ├── requirements.txt # Dependencies
 ├── README.md # This file
-│
-├── outputs/ # Generated files
-│ ├── skeleton_overlay.mp4 # Video with pose skeleton
-│ ├── cricket_batsman_keypoints.csv # Frame-wise keypoint coordinates
-│ ├── cricket_batsman_keypoints.json # Structured keypoint data
-│ └── cricket_batting_metrics.png # Biomechanical metrics visualization
-│
-└── sample_video/ # Sample input video (not included)
-└── cricket_batsman_side_view.mp4
+│── skeleton_overlay.mp4 # Video with pose skeleton
+│── cricket_batsman_keypoints.csv # Frame-wise keypoint coordinates
+│── cricket_batsman_keypoints.json # Structured keypoint data
+│── cricket_batting_metrics.png # Biomechanical metrics visualization
+└── Input_vid(batsman).mp4
 ```
 
 
