@@ -1,5 +1,5 @@
 # Sports-Biomechanics-Pose-Estimation-Keypoint-Analysis 
-# Cricket Batting Biomechanics Analysis using Computer Vision
+## Cricket Batting Biomechanics Analysis using Computer Vision
 
 ## Project Overview
 A computer vision pipeline for analyzing cricket batting technique using pose estimation and biomechanical metrics. This project implements a complete sports analytics workflow from video input to actionable performance insights.
